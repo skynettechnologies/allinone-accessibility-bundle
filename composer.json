@@ -11,6 +11,5 @@
             "Skynettechnologies\\AllinoneAccessibilityBundle\\": ""
         }
     },
-    /*"minimum-stability": "dev",*/
     "prefer-stable": false
 }
